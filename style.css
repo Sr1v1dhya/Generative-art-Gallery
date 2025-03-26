@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: Arial, sans-serif; /* Modern font */
+  background-color: rgb(60, 57, 57); /* Dark background for contrast */
+  color: white; /* Light text color */
+}
+
+canvas {
+  display: block;
+}
+
+.line {
+  font-size: 20px; /* Larger text */
+  font-weight: bold; /* Make it stand out */
+  padding: 20px; /* Space around text */
+  text-transform: uppercase; /* Make text uppercase */
+  letter-spacing: 2px; /* Add spacing for style */  
+}
